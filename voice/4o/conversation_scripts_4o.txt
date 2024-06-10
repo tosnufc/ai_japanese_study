@@ -1,0 +1,25 @@
+*************English conversation******************
+Waiter: Good morning. Welcome to our restaurant.
+Customer: Good morning. I’m vegan and I was wondering what vegan choices you have on the menu?
+Waiter: We have a few vegan options. Our vegan burger and the quinoa salad are popular choices.
+Customer: That sounds great. Could you tell me what ingredients are in the quinoa salad?
+Waiter: Of course. The quinoa salad includes quinoa, cherry tomatoes, cucumber, avocado, and a lemon vinaigrette.
+Customer: That sounds good. I was also interested in the pasta. Does it have any non-vegan ingredients?
+Waiter: The pasta dish contains cheese and cream.
+Customer: Is it possible to substitute the cheese and cream with vegan alternatives?
+Waiter: Yes, we can substitute the cheese with vegan cheese and the cream with a coconut-based cream. Would that be okay for you?
+Customer: That would be perfect. Thank you so much.
+Waiter: You’re welcome. I’ll place the order for you. Enjoy your meal!
+
+*************Japanese translation*********************
+ウェイター: おはようございます。ようこそお越しくださいました。
+客: おはようございます。私はヴィーガンなんですが、ヴィーガンのメニューは何がありますか？
+ウェイター: いくつかヴィーガンの選択肢があります。ヴィーガンバーガーとキヌアサラダが人気です。
+客: それは良さそうですね。キヌアサラダにはどんな材料が使われていますか？
+ウェイター: もちろんです。キヌア、チェリートマト、キュウリ、アボカド、レモンビネグレットが入っています。
+客: 良さそうですね。あと、パスタにも興味があるのですが、何かヴィーガンではない材料が入っていますか？
+ウェイター: パスタにはチーズとクリームが入っています。
+客: チーズとクリームをヴィーガンの代替品に変えることはできますか？
+ウェイター: はい、チーズをヴィーガンチーズに、クリームをココナッツベースのクリームに変えることができます。それで大丈夫ですか？
+客: それで完璧です。ありがとうございます。
+ウェイター: どういたしまして。注文をお受けします。お食事をお楽しみください。

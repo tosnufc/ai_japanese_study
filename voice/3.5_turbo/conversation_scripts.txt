@@ -1,0 +1,13 @@
+*************English conversation******************
+Waiter: Good morning. Welcome to our restaurant. Can I help you with the menu today?
+Customer: Hi there. I'm vegan, so could you please let me know what vegan options you have?
+Waiter: Of course, we have a few vegan dishes available. Would you like me to go over them with you?
+Customer: Yes, please. Also, could you tell me if the ingredients in the pasta dish contain any non-vegan items?
+Waiter: I can check that for you. If it does, we can see if it's possible to make substitutions with vegan ingredients.
+
+*************Japanese translation*********************
+ウェイター：おはようございます。当店へようこそ。メニューについてお手伝いできますか？
+顧客：こんにちは。私はヴィーガンなので、どのようなヴィーガンオプションがあるか教えていただけますか？
+ウェイター：もちろんです。いくつかのヴィーガン料理がございます。一緒に見ていきましょうか？
+顧客：はい、お願いします。それと、パスタ料理の材料に非ヴィーガンのものが含まれているか教えていただけますか？
+ウェイター：それを確認しますね。もし含まれていた場合は、ヴィーガンの材料と交換できるかどうかを確認しましょう。

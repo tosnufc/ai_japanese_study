@@ -1,2 +1,9 @@
 /temp.txt
 /voice.mp3
+.idea/
+/.env
+*.mp3
+.backup
+conversation.txt
+playground.py
+conversation_scripts.txt

@@ -4,6 +4,8 @@ import os
 from googletrans import Translator
 from pykakasi import kakasi
 from time import sleep
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
 def speak_text(command):
@@ -19,8 +21,8 @@ conv = kakasi.getConverter()
 
 
 def chat():
-    r = sr.Recognizer()
-    # r = sr.Recognizer(language='ja')
+    # r = sr.Recognizer()
+    r = sr.Recognizer(language='en')
     with sr.Microphone() as source:
         print('Speak Anything :')
         audio = r.listen(source)
