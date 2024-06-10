@@ -16,7 +16,11 @@ conv = kakasi.getConverter()
 
 
 def speak(voice_file):
-    os.system(f'start {voice_file}')
+    if os.name == 'nt':  # For Windows
+        os.system(f'start {voice_file}')
+    else:  # For MacOS
+        os.system(f'afplay {voice_file}')
+
 
 
 def divide_list(lst, delimiter):
