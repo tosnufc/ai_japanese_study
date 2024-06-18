@@ -1,0 +1,20 @@
+Waiter: Good morning. Welcome to our restaurant.
+Customer: Good morning. I'm vegan and I would like to know what vegan choices you have on the menu.
+Waiter: Of course! We have a few vegan options. Our vegan salad, vegetable stir-fry, and lentil soup are all popular choices. Is there something specific you are interested in?
+Customer: The vegetable stir-fry sounds good. Could you tell me what ingredients are in it? I want to make sure it doesn't contain any non-vegan ingredients.
+Waiter: Certainly! The vegetable stir-fry includes bell peppers, broccoli, carrots, snap peas, and tofu. It is cooked in a soy sauce-based dressing. 
+Customer: That sounds great, but does the soy sauce contain any fish or animal products?
+Waiter: Our soy sauce is completely vegan, so no fish or animal products are used.
+Customer: Wonderful! I’ll have the vegetable stir-fry then. Thank you for your help.
+Waiter: My pleasure! I'll get that order in for you right away. If you need anything else, please let me know.
+
+*****
+ウェイター: おはようございます。いらっしゃいませ。
+お客様: おはようございます。私はヴィーガンなんですが、メニューの中でヴィーガンの選択肢を教えていただけますか？
+ウェイター: もちろんです！いくつかヴィーガンのオプションがあります。ヴィーガンサラダ、野菜炒め、レンズ豆のスープが人気です。何か特に気になるものはありますか？
+お客様: 野菜炒めが良さそうですね。どんな材料が入っているか教えていただけますか？非ヴィーガンの材料が入っていないか確認したいんです。
+ウェイター: かしこまりました！野菜炒めには、パプリカ、ブロッコリー、ニンジン、スナップエンドウ、豆腐が入っています。醤油ベースのドレッシングで調理されています。
+お客様: それは良さそうですね。でも、その醤油には魚や動物由来の成分が含まれていませんか？
+ウェイター: うちの醤油は完全にヴィーガンなので、魚や動物由来の成分は使われていません。
+お客様: 素晴らしいですね！それでは、野菜炒めをお願いします。ご協力ありがとうございます。
+ウェイター: かしこまりました！すぐにご注文をお取りします。他に何かご入り用がありましたら、お知らせください。

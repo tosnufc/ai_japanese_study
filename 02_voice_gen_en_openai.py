@@ -5,7 +5,7 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 client = OpenAI()
 
-with open('conversation_scripts.txt', 'r', encoding='utf-8') as file:
+with open('conversation_scripts_backup.txt', 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
 

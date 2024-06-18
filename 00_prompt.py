@@ -79,6 +79,7 @@ def get_completion(prompt, model=gpt_model, temperature=0):
 # <put your conversation translation here>
 # """
 
+
 scenario = f"""
 Two close friends are talking about their travel plan within Japan. They will have 1-week off for their vacation. They like nature and quite places.
 """
@@ -102,6 +103,7 @@ Person A:
 *****
 <put your conversation translation here>
 """
+
 
 response = get_completion(prompt, temperature=0.7)
 print(response)

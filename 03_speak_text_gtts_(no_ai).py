@@ -31,7 +31,7 @@ def speak_text(sentences):
     print('English: {}'.format(translated_text_english))
 
 
-with open('conversation_scripts.txt', 'r', encoding='utf-8') as file:
+with open('conversation_scripts_backup.txt', 'r', encoding='utf-8') as file:
     lines = file.read().splitlines()
 
 line = lines.index('*****')+1

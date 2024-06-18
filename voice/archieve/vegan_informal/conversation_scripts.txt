@@ -1,0 +1,20 @@
+Waiter: Good morning. Welcome to our restaurant.
+Customer: Good morning. I'm vegan. Could you tell me what vegan choices you have on the menu?
+Waiter: Of course! We have a few options. Our Garden Salad, Vegan Burger, and Spaghetti Marinara are all vegan.
+Customer: Great! I'm interested in the Spaghetti Marinara. Could you tell me the ingredients?
+Waiter: Sure. The Spaghetti Marinara is made with spaghetti, marinara sauce, tomatoes, garlic, and basil.
+Customer: That sounds good. Does the marinara sauce contain any dairy or non-vegan ingredients?
+Waiter: No, the marinara sauce is completely vegan.
+Customer: Perfect. I think I'll go with the Spaghetti Marinara then.
+Waiter: Excellent choice! I'll get that started for you right away.
+
+*****
+ウェイター: おはようございます。ようこそ、当レストランへ。  
+お客: おはようございます。僕はヴィーガンなんですが、メニューの中でヴィーガンの選択肢は何がありますか？
+ウェイター: もちろんです！いくつかありますよ。ガーデンサラダ、ヴィーガンバーガー、スパゲッティ・マリナーラがヴィーガンです。
+お客: いいですね！スパゲッティ・マリナーラに興味があります。材料を教えてもらえますか？
+ウェイター: はい。スパゲッティ・マリナーラは、スパゲッティ、マリナーラソース、トマト、にんにく、バジルで作られています。
+お客: 美味しそうですね。マリナーラソースには乳製品や非ヴィーガンの材料は含まれていますか？
+ウェイター: いいえ、マリナーラソースは完全にヴィーガンです。
+お客: いいですね。それじゃあ、スパゲッティ・マリナーラをお願いします。
+ウェイター: 良い選択です！すぐに準備しますね。
